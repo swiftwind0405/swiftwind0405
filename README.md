@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi, 我是Stanley
+## Hi, I'm Stanley
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/xlz122#gh-light-mode-only)
 
 -   :hammer_and_pick: Javascript / Vue / React / TypeScript / React-Native / Taro / NodeJS
--   🌱 个人网站：[Stanley's Footprints](https://blog.stanleywind.cn/)
--   📫 我的邮箱：swiftwind0405@gmail.com
+-   🌱 Website：[Stanley's Footprints](https://blog.stanleywind.cn/)
+-   📫 Email：swiftwind0405@gmail.com
 
 ---
 
-#### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
+#### :bar_chart: [This Month I Spent My Time on](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
 
