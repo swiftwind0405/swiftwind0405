@@ -29,4 +29,9 @@ Here are some ideas to get you started:
 #### :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
