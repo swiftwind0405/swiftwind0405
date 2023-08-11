@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### :bar_chart: [This Month I Spent My Time on](https://github.com/muety/wakapi)
+#### :bar_chart: Monthly Coding Time
 
 <!--START_SECTION:waka-->
 
