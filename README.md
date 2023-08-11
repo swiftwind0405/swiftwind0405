@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Stanley
 
-Lifelong Learner | Passionate Coder | Frontend Development Engineer | Married | Father of One Son and One Daughter
+A Frontend Development Engineer Live in China
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/xlz122#gh-light-mode-only)
 
