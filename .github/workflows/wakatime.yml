@@ -12,7 +12,7 @@ jobs:
     name: Update README
     runs-on: ubuntu-latest
     steps:
-      - uses: swiftwind0405/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           API_BASE_URL: http://home.stanleywind.cn:3000/api/compat/wakatime
