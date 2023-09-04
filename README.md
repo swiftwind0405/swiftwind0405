@@ -1,8 +1,8 @@
-<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swiftwind0405&theme=shadow_blue">
+<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swiftwind0405&theme=shadow_blue&layout=compact">
 
 ### Hi, I'm Stanley
 
-A Frontend Development Engineer Live in China
+A Frontend Development Engineer Live in China.
 
 -   :hammer_and_pick: Javascript / Vue / React / TypeScript / React-Native / Taro / NodeJS
 -   🌱 Website：[Stanley's Footprints](https://blog.stanleywind.cn/)
