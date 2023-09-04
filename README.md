@@ -4,9 +4,7 @@
 
 A Frontend Development Engineer Live in China.
 
--   :hammer_and_pick: Javascript / Vue / React / TypeScript / React-Native / Taro / NodeJS
--   🌱 Website：[Stanley's Footprints](https://blog.stanleywind.cn/)
--   📫 Email：swiftwind0405@gmail.com
+You can find me in my Website：[Stanley's Footprints](https://blog.stanleywind.cn/) and [Email](swiftwind0405@gmail.com)
 
 ---
 
