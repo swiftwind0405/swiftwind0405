@@ -15,7 +15,7 @@ jobs:
       - uses: swiftwind0405/waka-readme@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
+          API_BASE_URL: http://home.stanleywind.cn:3000/api
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
           # 提交消息
           COMMIT_MESSAGE: Update Wakapi stats
