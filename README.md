@@ -4,7 +4,7 @@
 
 A Frontend Development Engineer Live in China.
 
-You can find me in my [Website](https://blog.stanleywind.cn/) and [Email](swiftwind0405@gmail.com)
+You can find me in my [Website](https://blog.stanleywind.cn/) and [Email](swiftwind0405@gmail.com).
 
 
 #### :bar_chart: Monthly Coding Time
