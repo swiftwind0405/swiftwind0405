@@ -16,7 +16,7 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           API_BASE_URL: https://wakatime.com/api
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY_OFFICIAL }}
           # 提交消息
           COMMIT_MESSAGE: Update Wakapi stats
           # 图形
