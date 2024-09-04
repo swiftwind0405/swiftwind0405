@@ -2,11 +2,10 @@
 
 ### Hi, I'm Stanley
 
-A Frontend Development Engineer Live in China.
+A Frontend Development Engineer Live in China. [![wakatime](https://wakatime.com/badge/user/9d585e6e-235b-4de5-9bdb-aeb24ff7841b.svg)](https://wakatime.com/@9d585e6e-235b-4de5-9bdb-aeb24ff7841b)
+
 
 You can find me in my [Website](https://blog.stanleywind.org/) and [Email](swiftwind0405@gmail.com).
-
-[![wakatime](https://wakatime.com/badge/user/9d585e6e-235b-4de5-9bdb-aeb24ff7841b.svg)](https://wakatime.com/@9d585e6e-235b-4de5-9bdb-aeb24ff7841b)
 
 
 #### :bar_chart: Monthly Coding Time
