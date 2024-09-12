@@ -4,7 +4,7 @@
 
 A Frontend Development Engineer Live in Shanghai, China.
 
-You can find me in my [Website](https://blog.stanleywind.org/) and [Email](swiftwind0405@gmail.com).
+You can find me in my [Website](https://blog.stanleywind.org/) and [Email](i@stanleywind.org).
 
  [![wakatime](https://wakatime.com/badge/user/9d585e6e-235b-4de5-9bdb-aeb24ff7841b.svg)](https://wakatime.com/@9d585e6e-235b-4de5-9bdb-aeb24ff7841b)
 
